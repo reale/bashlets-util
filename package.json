@@ -1,0 +1,10 @@
+{
+        "name": "util",
+        "description": "Bashlets utilities",
+        "version": "0.2",
+        "author": {
+                "name": "Roberto Reale",
+                "email": "roberto@reale.me"
+        },
+        "license": "MIT"
+}
