@@ -37,7 +37,7 @@
 # based on http://cfajohnson.com/shell/date-functions/?easter
 
 #@public
-function bashlets::time::holidays::easter()
+function bashlets::util::time::holidays::easter()
 {
     declare -i a b c d e f g h i k l m p
     declare -i year month day
